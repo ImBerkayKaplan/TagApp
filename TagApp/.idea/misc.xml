@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/israe/Documents/GitHub/TagApp/TagApp/TagApp/app/src/main/res/layout/activity_acoustic_mode.xml" value="0.2296875" />
+        <entry key="..\:/Users/israe/Documents/GitHub/TagApp/TagApp/TagApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/israe/Documents/GitHub/TagApp/TagApp/TagApp/app/src/main/res/layout/ble_scanner.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/israe/Documents/GitHub/TagApp/TagApp/TagApp/app/src/main/res/layout/location_screen.xml" value="0.2296875" />
+        <entry key="..\:/Users/israe/Documents/GitHub/TagApp/TagApp/TagApp/app/src/main/res/layout/lora_scanner.xml" value="0.264" />
+        <entry key="..\:/Users/israe/Documents/GitHub/TagApp/TagApp/TagApp/app/src/main/res/layout/uwb_scanner.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/israe/Documents/GitHub/TagApp/TagApp_2.0/TagApp_2_0/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3729166666666667" />
+        <entry key="..\:/Users/israe/Documents/GitHub/TagApp/TagApp_2.0/TagApp_2_0/app/src/main/res/drawable/border.xml" value="0.3729166666666667" />
+        <entry key="..\:/Users/israe/Documents/GitHub/TagApp/TagApp_2.0/TagApp_2_0/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3729166666666667" />
+        <entry key="..\:/Users/israe/Documents/GitHub/TagApp/TagApp_2.0/TagApp_2_0/app/src/main/res/layout/activity_acoustic_mode.xml" value="0.3736413043478261" />
+        <entry key="..\:/Users/israe/Documents/GitHub/TagApp/TagApp_2.0/TagApp_2_0/app/src/main/res/layout/activity_main.xml" value="0.3736413043478261" />
+        <entry key="..\:/Users/israe/Documents/GitHub/TagApp/TagApp_2.0/TagApp_2_0/app/src/main/res/layout/ble_scanner.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/israe/Documents/GitHub/TagApp/TagApp_2.0/TagApp_2_0/app/src/main/res/layout/discovery.xml" value="0.3736413043478261" />
+        <entry key="..\:/Users/israe/Documents/GitHub/TagApp/TagApp_2.0/TagApp_2_0/app/src/main/res/layout/discovery_menu.xml" value="0.32019927536231885" />
+        <entry key="..\:/Users/israe/Documents/GitHub/TagApp/TagApp_2.0/TagApp_2_0/app/src/main/res/layout/lora_scanner.xml" value="0.2" />
+        <entry key="..\:/Users/israe/Documents/GitHub/TagApp/TagApp_2.0/TagApp_2_0/app/src/main/res/layout/nfc_scanner.xml" value="0.3541666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
